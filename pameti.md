@@ -41,7 +41,7 @@
 - Adresy jdou za sebou postupně = `multiplexing`
 - Každá buňka krome kondenzátoru obsahuje i `přístupový tranzistor` - slouží pro výběr kondenzátoru
 
-![image](https://github.com/janekspalek/apps/assets/98762780/885d2baf-ea28-4113-a05d-bb6e3ca32d13)
+![dram](https://github.com/janekspalek/apps-zkouska/assets/98762780/e75021ff-a9b5-4aa0-a5b8-04fd9861f72a)
 
 ## Statické paměti
 
@@ -54,8 +54,7 @@
 - Není potřeba refresh - stav klopného obvodu se udrží tak dlouho, dokud neodpojíme napájení
 - SRAM je o dost dražší než DRAM, pojme také mnohem méně dat
 
-![image](https://github.com/janekspalek/apps/assets/98762780/11253b76-ee4c-4152-a7f0-6a52322982dd)
-
+![image](https://github.com/janekspalek/apps-zkouska/assets/98762780/838497fb-12df-49ee-bd0f-e542bf7bc33f)
 
 ## Paměti s trvalým obsahem
 
