@@ -5,7 +5,7 @@
 - Lze nastavit, zdali provádí inkrementaci při **náběžné** nebo **sestupné** hraně vnějšího signálu
 - Počáteční hodnota se nastavuje programově
 
-![citac](https://github.com/janekspalek/apps/assets/98762780/5cdc880f-14b6-4a53-a5ec-402c4c037399)
+![citac](https://github.com/janekspalek/apps-zkouska/assets/98762780/c801a04a-0275-4cf3-84b0-9f8792212391)
 
 # Časovač
 
@@ -13,7 +13,7 @@
 - Není inkrementován vnějším signálem, ale přímo **vnitřním hodinovým signálem** používaného pro řízení samotného mikropočítače
 - Také lze nastavit počáteční hodnotu
 
-![casovac](https://github.com/janekspalek/apps/assets/98762780/e108a3c9-d102-47c7-83bc-368f90295bf2)
+![casovac](https://github.com/janekspalek/apps-zkouska/assets/98762780/f439ce8e-a1cb-4fee-8c39-ab7b87ffb873)
 
 # A/D převodníky
 
