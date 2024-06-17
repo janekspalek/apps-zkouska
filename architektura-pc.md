@@ -44,8 +44,7 @@
 1. Dvě sběrnice - dražší a komplikovanější výroba
 2. Nevyužitou část pro program nelze využít pro data a naopak
 
-![image](https://github.com/janekspalek/apps/assets/98762780/38d80844-52c4-47c3-a836-1ee9e438f184)
-
+![hardvard](https://github.com/janekspalek/apps-zkouska/assets/98762780/44b5a4a1-6cd4-46d9-b14a-d863a0da30ac)
 
 ## Princip fungování počítače
 
