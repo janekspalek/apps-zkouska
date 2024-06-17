@@ -70,12 +70,6 @@
 ![Kolmé](https://github.com/janekspalek/apps-zkouska/assets/98762780/3d6d7d20-9294-499b-8182-7ae6bd5f1c4b)
 ![Podélné](https://github.com/janekspalek/apps-zkouska/assets/98762780/2de9a21d-cc45-437c-bbd6-c934267a44be)
 
-
-
-![Kolmé](https://cdn.discordapp.com/attachments/1213418988462407722/1249684711161462795/image.png?ex=66683315&is=6666e195&hm=6d527afd4921c59ad2c463ec1b5fd999cad867bc55d0fa93c36dc574c65e1f3d&)
-![Podélné](https://cdn.discordapp.com/attachments/1213418988462407722/1249684934038388829/image.png?ex=6668334a&is=6666e1ca&hm=4c5d959504bc11f6c9e4bf49c0e34a907f7baf9e077f5a3a56903ab6b679bd1c&)
-
-
 # Optické paměti
 
 ## Princip ukládání dat
