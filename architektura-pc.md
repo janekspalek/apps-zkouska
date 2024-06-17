@@ -26,7 +26,8 @@
 1. Společné uložení programu i dat může mít za následek přepsání vlastního programu
 2. Jediná sběrnice tvoří úzké místo
 
-![nojmanpico](https://github.com/janekspalek/apps/assets/98762780/a5472b7b-9009-4b8b-956e-e024d27c4be4)
+![nojmanpico](https://github.com/janekspalek/apps-zkouska/assets/98762780/6430e43f-127f-4763-81bd-8b4ffa2853d0)
+
 
 
 ## Hardvardská architektura
