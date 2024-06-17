@@ -40,9 +40,3 @@
 - Zaměřený na vysokou energetickou efektivnost
 - 1-1,5 GHz
 - Podpora L1 a L2 cache
-
-![A35](https://cdn.discordapp.com/attachments/1078965904093745252/1245482535392116738/2015_-_A35.jpg?ex=66622400&is=6660d280&hm=30c3685c883cd4fcb4efa3292171cb3e254e4dc6ce60d3f3057becf11ef87f8f&)
-
-
-
-[https://drive.google.com/drive/folders/1tbuhnU2iSmzuK3gYcsxs4wDkD-CoLmQr?usp=sharing](https://drive.google.com/file/d/1DaWny9DOk2mCjM2If83rQAXQa-oupr-4/view?usp=drive_link)
