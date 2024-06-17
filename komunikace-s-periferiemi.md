@@ -54,6 +54,9 @@
 - Procesor vyšle signál `RD`, čímž příkáže vstupnímu zařízení poslat data do procesoru
 - V případě výstupu procesor vyšle signál `WR` a současně vyšle i data
 - **Očekává se, že je zařízení vždy připraveno**
+
+![nepodmineny](https://github.com/janekspalek/apps-zkouska/assets/98762780/9415351b-017b-46dd-b588-26059648565c)
+
   
 ### 2. Podmíněný neúplný vstup/výstup
 - **Vždy se čeká se na dostupnost procesoru**
@@ -62,6 +65,9 @@
 - **Zároveň vynuluje indikátor Q**
 - Při zapisování lze říct, že indikátor Q slouží, že procesor může zaslat další příkazy
 - **Periferie musí být opět stále na pozoru**
+
+![podmineny](https://github.com/janekspalek/apps-zkouska/assets/98762780/d62000be-69dc-42ab-b1b2-4d27ccbc64d7)
+
 
 ### 3. Podmíněný úplný vstup/výstup
 - Obsahuje navíc `vyrovnávací pamět` _(registr)_ - **uchovává data mezi procesorem a zařízením**
@@ -72,6 +78,9 @@
 - V případě zápisu dat procesor svá data zašle na _registr_ a nastaví `Q` na hodnotu `1`
 - **Poté periferie, až bude mít čas, tento signál přečte**
 - Pokud má Q hodnotu 1, periferie si vyžádá data z _registru_ a indikátor Q _vynuluje_
+
+![podmineny+buffer](https://github.com/janekspalek/apps-zkouska/assets/98762780/6e558e85-7d1e-482d-9daf-3a9b6c7dff35)
+
 
 ## Programové řízení komunikace
 
