@@ -112,3 +112,6 @@
 - `Registr dat` - obsahuje slovo, které má být přesunuto
 - `Registr adres` - obsahuje adresu hlavní paměti, do/z které mají být data přesunuta
 
+![dma](https://github.com/janekspalek/apps-zkouska/assets/98762780/68eb3710-15f6-4cfe-804a-aef8cc26b844)
+
+
