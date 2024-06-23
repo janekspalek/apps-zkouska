@@ -24,6 +24,9 @@
 
 > RAMka by byla tedy Volatile RWM DRAM
 
+![image](https://github.com/janekspalek/apps-zkouska/assets/98762780/6b39a3e0-6a70-44d4-8c67-d9c114242b08)
+
+
 ## Dynamické paměti
 
 - Data jsou zde uložena ve formě **elektrického náboje** v `kondenzátoru`
