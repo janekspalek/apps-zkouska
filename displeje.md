@@ -8,9 +8,6 @@
 - **Výhody**: kvalita obrazu, životnost, spotřeba energie
 - **Nevýhody**: citlivost na teplotu, vadné pixely, doba odezvy
 
-![image](https://github.com/janekspalek/apps-zkouska/assets/98762780/439e9a4a-ed65-485d-b72d-9883c41146a4)
-
-
 ## Princip TN-TFT
 
 > Twisted Nematic - Thin Film Transistor
@@ -27,6 +24,9 @@
 - LCD musí být podsvětlen bílým světlem
 - 0 proudu = bod svítí
 
+![image](https://github.com/janekspalek/apps-zkouska/assets/98762780/4a5c161c-9da1-45b6-9eb7-0c4b07e51de9)
+
+
 ## Princip IPS
 
 > In Plane Switching
@@ -36,6 +36,8 @@
 - Krystaly již netvoří šroubovici, ale jsou uspořádány v **rovině**
 - Při přivedení proudu se krystaly začnou opět otáčet, tím dojde k otočení celé roviny krystalů
 - **V klidovém stavu krystaly světlo neotáčí = buňka nesvítí**
+
+![image](https://github.com/janekspalek/apps-zkouska/assets/98762780/439e9a4a-ed65-485d-b72d-9883c41146a4)
 
 ## Barevné LCD displeje
 
