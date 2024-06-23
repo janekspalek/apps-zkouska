@@ -53,3 +53,6 @@
 - Jedním z těchto registrů je `IP (Instruction Pointer)` - ukazatel do paměti na instrukci, která má být provedena
 - Má-li CPU vykonat instrukci, získá si ji pomocí IP registru z paměti. Po provedení zvýší IP o délku právě provedené instrukce a celý cyklus se opakuje
 - Tyto základní koncepty ale neumožňovaly paralelní zpracování dat
+
+![image](https://github.com/janekspalek/apps-zkouska/assets/98762780/5928eec7-681d-41df-9d89-0c75e5b09419)
+
