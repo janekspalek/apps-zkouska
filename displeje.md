@@ -79,6 +79,9 @@
 3. Pod sebou (_vertikálně_)
 4. Pod sebou + bílá barva - `RGBW`
 
+![image](https://github.com/janekspalek/apps-zkouska/assets/98762780/283a7f1c-f4d6-4db1-9c60-852b68845bd9)
+
+
 ## AMOLED vs. PMOLED
 
 > Active/Passive Matrix OLED
