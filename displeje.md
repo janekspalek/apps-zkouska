@@ -8,7 +8,8 @@
 - **Výhody**: kvalita obrazu, životnost, spotřeba energie
 - **Nevýhody**: citlivost na teplotu, vadné pixely, doba odezvy
 
-![LCD displej](https://www.lcd-module.com/fileadmin/_processed_/d/a/csm_IPS_vs_TN_cbcd3aaa9f.jpg)
+![image](https://github.com/janekspalek/apps-zkouska/assets/98762780/439e9a4a-ed65-485d-b72d-9883c41146a4)
+
 
 ## Princip TN-TFT
 
