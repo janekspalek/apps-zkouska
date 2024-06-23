@@ -114,4 +114,9 @@
 
 ![dma](https://github.com/janekspalek/apps-zkouska/assets/98762780/68eb3710-15f6-4cfe-804a-aef8cc26b844)
 
+<img width="876" alt="image" src="https://github.com/janekspalek/apps-zkouska/assets/98762780/f9fb57fe-d3bf-4b68-b4fb-f39070510871">
+
+<img width="879" alt="image" src="https://github.com/janekspalek/apps-zkouska/assets/98762780/467f52d1-b7b2-44f9-8fd2-2ba3e0800744">
+
+
 
