@@ -112,9 +112,7 @@
 - `Registr dat` - obsahuje slovo, které má být přesunuto
 - `Registr adres` - obsahuje adresu hlavní paměti, do/z které mají být data přesunuta
 
-![dma](https://github.com/janekspalek/apps-zkouska/assets/98762780/68eb3710-15f6-4cfe-804a-aef8cc26b844)
-
-<img width="500" alt="image" src="https://github.com/janekspalek/apps-zkouska/assets/98762780/467f52d1-b7b2-44f9-8fd2-2ba3e0800744">
+<img width="450" alt="image" src="https://github.com/janekspalek/apps-zkouska/assets/98762780/467f52d1-b7b2-44f9-8fd2-2ba3e0800744">
 
 
 
